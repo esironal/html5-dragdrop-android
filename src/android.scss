@@ -1,0 +1,127 @@
+$body-bg-color: #f8f8f8;
+$header-color: #777;
+
+body {
+  background-color: $body-bg-color;
+  height: 800px;
+  margin: 0;
+  padding: 0;
+  width: 1200px;
+}
+
+.image {
+  position: absolute;
+}
+
+.android {
+  left: 266px;
+  top: 43px;
+}
+
+h1 {
+  color: $header-color;
+  font-family: arial,sans-serif;
+  font-size: 18px;
+  margin: 10px 0 0 10px;
+  text-transform: uppercase;
+}
+
+img {
+  position: absolute;
+  z-index: 1;
+}
+
+.shoes {
+  left: 836px;
+  top: 214px;
+}
+
+.hat {
+  left: 615px;
+  top: 10px;
+}
+
+.shirt {
+  left: 4px;
+  top: 403px;
+}
+
+.dress {
+  left: 534px;
+  top: 403px;
+}
+
+.shoes-black {
+  left: 605px;
+  top: 277px;
+}
+
+.sweater {
+  left: 267px;
+  top: 454px;
+}
+
+.shoes-blue {
+  left: 603px;
+  top: 233px;
+}
+
+.hair-black {
+  left: 11px;
+  top: 47px;
+}
+
+.hair-yellow {
+  left: 10px;
+  top: 175px;
+}
+
+.hair-pink {
+  left: 13px;
+  top: 232px;
+}
+
+.hair-brown {
+  left: 100px;
+  top: 175px;
+}
+
+.shoes-pink {
+  left: 755px;
+  top: 276px;
+}
+
+.mustache {
+  left: 164px;
+  top: 157px;
+}
+
+.headphones {
+  left: 777px;
+  top: 41px;
+}
+
+.sunglasses {
+  left: 585px;
+  top: 86px;
+}
+
+.shorts {
+  left: 888px;
+  top: 168px;
+}
+
+.pants-blue {
+  left: 743px;
+  top: 163px;
+}
+
+.pants-brown {
+  left: 610px;
+  top: 163px;
+}
+
+.suit {
+  left: 851px;
+  top: 329px;
+}
