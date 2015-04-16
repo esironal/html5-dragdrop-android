@@ -1,4 +1,4 @@
 # html5-dragdrop-android
 
-## Live demo
-Customize an Android.
+## About
+Customize an Android by dragging and dropping accessories.
